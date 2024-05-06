@@ -135,7 +135,7 @@ function App() {
           </div>
           <footer class="footer px-4 py-6">
             <div class="footer-content">
-              <p class="text-sm text-gray-600 text-center">An Authz Project<a href="https://twitter.com/iaminos"> by Amogh Y (amogh.yermalkar@connectwise.com)</a></p>
+              <p class="text-sm text-gray-600 text-center">An Authz Project<a href="https://twitter.com/iaminos"> by Amogh Y (ayermalkar99@gmail.com)</a></p>
             </div>
           </footer>
         </main>
